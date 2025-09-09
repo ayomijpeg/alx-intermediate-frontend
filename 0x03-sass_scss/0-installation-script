@@ -1,0 +1,2 @@
+installed Sass in my terminal using command npm install sass -v 3.7.4
+but unfortunately the version doesnt exist so I installed the latest version using command npm install -g sass
